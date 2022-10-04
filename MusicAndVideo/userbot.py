@@ -69,7 +69,7 @@ async def help(client, m: Message):
     HELP = f"""
 <b>❤️ ʜᴇʟʟᴏ {m.from_user.mention}!
 
-🛠  Hᴇʟᴘ Mᴇɴᴜ
+🛠  ʜᴇʟᴘ ᴍᴇɴᴜ
 
 » ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ
 
@@ -96,16 +96,16 @@ async def repo(client, m: Message):
 <b>❤️ ʜᴇʟʟᴏ {m.from_user.mention}!
       ✪ 🆂︎ʜᴇʜᴢʜᴀᴅɪ 🅼︎ᴜsɪᴄ ✪
 
- ᴛᴇʟᴇɢʀᴀᴍ Usᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
+ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
 
 »  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ
 • [ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ](https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw)
-• [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/TechQuard)
+• [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/TheBotsUpdate)
 
 
 »  ✪ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ✪
- • ғɪʀsᴛ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴛʏᴘᴇ #Shehzhadi-Music-Userbot
-» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [ᴛᴇᴄʜ ǫᴜᴀʀᴅ sᴜᴘᴘᴏʀᴛ](https://t.me/TechQuardSupport) 
+ • ғɪʀsᴛ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴛʏᴘᴇ #repo ᴀɴᴅ ᴛʜᴇɴ sᴇʟᴇᴄᴛ sʜᴇʜᴢʜᴀᴅɪ ᴍᴜsɪᴄ
+» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [ᴛʜᴇ ʙᴏᴛs sᴜᴘᴘᴏʀᴛ](https://t.me/TheSupportBots) 
  
  </b>
 """
